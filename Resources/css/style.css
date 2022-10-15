@@ -20,3 +20,29 @@ video {
     display: block;
     margin: 0 auto;
 }
+
+h2 {
+    text-align: center;
+    font-weight: 300;
+    font-size: 42 px;
+}
+
+#description {
+    text-align: center;
+    color: gray;
+}
+
+#camp {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+#phone {
+    display: block;
+    margin: 0 auto;
+}
+
+#copyright {
+    text-align: right;
+}
